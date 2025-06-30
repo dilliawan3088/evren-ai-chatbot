@@ -6,7 +6,7 @@ from openai import OpenAI
 from fastapi.middleware.cors import CORSMiddleware
 
 
-
+#Hamza
 
 # Load environment variables
 load_dotenv()
